@@ -1,4 +1,4 @@
-# Tuned Ensemble Pipeline (ML-C2 Milestone)
+# Tuned Ensemble Pipeline 
 
 Improving my ML-C1 baseline with feature selection, an ensemble model and systematic hyperparameter tuning.
 
