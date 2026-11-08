@@ -1,0 +1,31 @@
+feature,kept,importance
+num__worst area,True,0.1300079859244934
+num__worst perimeter,True,0.12794797457479617
+num__worst concave points,True,0.12718298055519622
+num__worst radius,True,0.09280665977806213
+num__mean concave points,True,0.08902868426763719
+num__mean radius,True,0.05453771597505826
+num__mean concavity,True,0.05092361929363211
+num__mean perimeter,True,0.04970339714488419
+num__mean area,True,0.042165026654823266
+num__area error,True,0.03702081743034798
+num__worst concavity,True,0.033652645268491876
+num__worst texture,True,0.017897493662194564
+num__radius error,True,0.01694024334251516
+num__worst compactness,True,0.016704694855195493
+num__mean texture,True,0.013547127689572275
+num__mean compactness,True,0.013398227773789498
+num__worst smoothness,True,0.01338576403197165
+num__worst symmetry,False,0.009907686548623828
+num__perimeter error,False,0.008243430750737437
+num__worst fractal dimension,False,0.006412372175086834
+num__mean smoothness,False,0.00628271883310977
+num__concave points error,False,0.006135548526699458
+num__concavity error,False,0.005774188665642664
+num__texture error,False,0.004873062731212558
+num__fractal dimension error,False,0.004680786028009517
+num__symmetry error,False,0.004463594940530061
+num__compactness error,False,0.004397432177401411
+num__mean symmetry,False,0.004279818759035856
+num__smoothness error,False,0.004261899017009062
+num__mean fractal dimension,False,0.0034364026242400684
