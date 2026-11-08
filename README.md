@@ -41,8 +41,8 @@ Everything is seeded (`SEED = 42`), so results are reproducible. Plots go to `im
 
 | Model | Accuracy | F1-macro |
 |---|---|---|
-| Baseline (ML-C1) | <fill> | <fill> |
-| Tuned ensemble | <fill> | <fill> |
+| Baseline (ML-C1) | 0.9825 | 0.9812 |
+| Tuned ensemble | 0.9561 | 0.9526 |
 
 ![Before vs after](images/before_after.png)
 ![Confusion matrices](images/confusion_matrices.png)
