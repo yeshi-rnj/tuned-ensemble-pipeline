@@ -3,10 +3,9 @@
 Improving my ML-C1 baseline with feature selection, an ensemble model and systematic hyperparameter tuning.
 
 ## Problem & data
-- **Dataset:** <name, source, rows, columns>
-- **Task:** <classification / target description>
-- **Metric:** <e.g. F1-macro> (same metric as ML-C1)
-
+- **Dataset:** Breast Cancer Wisconsin (Diagnostic), loaded from scikit-learn (`load_breast_cancer`, originally from the UCI Machine Learning Repository). 569 rows, 30 numeric feature columns plus 1 target column.
+- **Task:** Binary classification: predict whether a tumour is malignant (212 samples) or benign (357 samples) from measurements of cell nuclei.
+- **Metric:** F1-macro (same metric as ML-C1). Accuracy is reported as a secondary metric.
 ## How to run
 ```bash
 pip install -r requirements.txt
